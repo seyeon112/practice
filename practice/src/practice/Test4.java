@@ -21,6 +21,18 @@ public class Test4 {
 //		System.out.println(num2);
 //		System.out.println(num3);
 //		System.out.println(num4);
+//		double marathon = 42.195;
+//		float halfMarathon = 21.0975f;
+//		
+//		System.out.println("마라톤은 " + marathon + "km를 달립니다.");
+//		System.out.println("하프 마라톤은 " + halfMarathon + "km를 달립니다.");
+//		double num = 100.0;
+		
+		double pieDouble = 3.141592653589793;
+		float pieFloat = 3.141592653589793f;
+		
+		System.out.println("double :" + pieDouble);
+		System.out.println("float :" + pieFloat);
 		
 	}
 
