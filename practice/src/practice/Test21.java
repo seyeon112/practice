@@ -124,6 +124,7 @@ public class Test21 {
 //		카드에 적힌 숫자는 1부터 10이며, 카드는 섞여있으므로 순서는 상관이 없습니다.
 		
 //		1. 1부터 10까지인 카드덱 생성
-		int cards = (int) ((Math.random()*10000)%10));
+//		int cards = (int) ((Math.random()*10000)%10));
+		
 	}
 }
