@@ -1,6 +1,6 @@
 package day06;
 
-public class C {
+class SuperCarC {
 //	
 //	public double sum(int num1, int num2) {
 //		return num1 + num2;
@@ -22,7 +22,25 @@ public class C {
 //  비밍번호 오류 횟수
   int errorCount;
 //  초기화 블록
+  {
+	this.password = "0000";  
+  }
+  
+//  static block (무조건 한 번 실행될 문장)
+  static {
+	  System.out.println("출고 축하드립니다~!");
+  }
+  
+  public SuperCarC() {;}
+  
+  public SuperCarC() {
+	  
+  }
   
 	
+	
+}
+
+public class C {
 	
 }
