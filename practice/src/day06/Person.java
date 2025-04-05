@@ -20,9 +20,11 @@ public class Person {
 		
 		System.out.println(yonghee.name);
 		
+		System.out.println(yonghee.age);
 		
 		
 		
+	
 		
 		
 		
