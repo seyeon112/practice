@@ -22,7 +22,7 @@ public class Person {
 		
 		System.out.println(yonghee.age);
 		
-		
+		System.out.println(yonghee.equals(zzangoo));
 		
 	
 		
